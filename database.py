@@ -8,7 +8,6 @@ engine = create_engine(
     SQLALCHEMY_DATABASE_URL
 )
 
-
 # SQLALCHEMY_DATABASE_URL = "sqlite:///./todos.db"
 #
 # engine = create_engine(
